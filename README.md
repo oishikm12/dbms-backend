@@ -1,3 +1,3 @@
-# Backend for University Management System
+# University Management System
 
-    Simple backend featuring MySQL and NodeJS to interact with database
+    Frontend designed via React JS. Simple backend featuring MySQL and NodeJS to interact with database
